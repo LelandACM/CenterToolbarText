@@ -50,7 +50,6 @@ public void onBackPressed() {
 在Fragment中当然没有这个函数可以让你重写，但是可以通过在基类implement OnBackPressed*`(自己定义的)`*接口详情请见[onBackPressed() for Fragments][8],我通过此方法，使用上面的这种发现效果图如`before.gif`并不是解决办法，还是监听`setOnQueryTextFocusChangeListener`是正确的，正确图片如下`perfect.gif`
 
 ![before.gif](http://upload-images.jianshu.io/upload_images/4073499-f8eedbd1047b9f6c.gif?imageMogr2/auto-orient/strip)
-
 ![perfect.gif](http://upload-images.jianshu.io/upload_images/4073499-46e7c5831c8dd0b1.gif?imageMogr2/auto-orient/strip)
 - **参考链接**
 
