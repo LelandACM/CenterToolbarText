@@ -70,7 +70,7 @@ public void onBackPressed() {
 [onPrepareOptionsMenu not getting called in Fragments][6]
 - **简书博客传送门**
 
-CenterTooolBarText:<https://github.com/GitACDreamer/CenterToolbarText>
+CenterTooolBarText:<http://www.jianshu.com/p/572d36f8f97d/>
 
 ##### 希望大家多多关注star and fork，各位觉得如果有帮助给个赞，谢谢
 [1]:https://developer.android.com/guide/topics/ui/menus.html
